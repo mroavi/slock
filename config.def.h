@@ -10,9 +10,13 @@ static const char *colorname[NUMCOLS] = {
   //[INPUT] =  "#73cef4",   /* during input */
   //[FAILED] = "#f43753",   /* wrong password */
 
-  // rose-pine
-  [INPUT] =  "#26233a",   /* during input */
-  [FAILED] = "#eb6f92",   /* wrong password */
+  //// rose-pine
+  //[INPUT] =  "#26233a",   /* during input */
+  //[FAILED] = "#eb6f92",   /* wrong password */
+
+  // catppuccin
+  [INPUT] =  "#1E1E2E",   /* during input */
+  [FAILED] = "#f38bA8",   /* wrong password */
 
 };
 
